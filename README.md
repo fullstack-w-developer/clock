@@ -1,2 +1,2 @@
 # clock
-<img src="/image.png"/>
+<img src="image/image.png"/>
